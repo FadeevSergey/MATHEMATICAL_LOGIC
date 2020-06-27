@@ -9,14 +9,6 @@ public class Or implements Node {
         this.rightNode = rightNode;
     }
 
-    public Node getLeftNode() {
-        return leftNode;
-    }
-
-    public Node getRightNode() {
-        return rightNode;
-    }
-
     @Override
     public void getStringRepresentation() {
         System.out.print("(|,");

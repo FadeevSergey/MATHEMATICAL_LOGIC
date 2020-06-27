@@ -7,10 +7,6 @@ public class Not implements Node {
         this.node = node;
     }
 
-    public Node getNode() {
-        return node;
-    }
-
     @Override
     public void getStringRepresentation() {
         System.out.print("(!");
