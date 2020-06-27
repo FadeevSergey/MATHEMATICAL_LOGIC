@@ -1,0 +1,13 @@
+IMPL_TOKEN=1
+AND_TOKEN=2
+NOT_TOKEN=3
+OR_TOKEN=4
+LB_TOKEN=5
+RB_TOKEN=6
+VAR_TOKEN=7
+'->'=1
+'&'=2
+'!'=3
+'|'=4
+'('=5
+')'=6
